@@ -1,1 +1,5 @@
-# Final.project
+Ebonfall Manor - A horror adventure
+Ebonfall Manor is a text-based horror adventure game that immerses the player in the haunted world of Ebonfall Manor. As the rejected heir to the manor, the player explores the eerie mansion, uncovers its dark secrets, and confronts malevolent spirits. The goal is to solve puzzles, interact with supernatural entities, and make crucial decisions to lift the curse haunting the manor—or become consumed by it.
+Run the Python game by saving the code into a file (e.g., ebonfall_chapters.py). Open a terminal/command prompt and navigate to the folder containing the file.
+Since this project is a text-based adventure, there aren't any visuals in the game itself, but it can be modified to display chapter intros with a visual (such as a character illustration or a creepy picture of the mansion).
+The game is functional, with five separate chapters allowing the player to make decisions, explore, and progress through the story. Each chapter has an introduction, and several actions that the player can choose from.
